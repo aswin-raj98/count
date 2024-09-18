@@ -1,0 +1,23 @@
+body{
+    background-color: wheat;
+}
+#num{
+    display: block;
+    text-align: center;
+    font-size: 150px;
+    font-family: cursive;
+}
+#cont{
+    text-align: center;
+}
+.buttons{
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.buttons:hover{
+    background-color: navy;
+    color: white;
+}
